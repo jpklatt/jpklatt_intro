@@ -4,7 +4,7 @@ My name is Justin Klatt and I am an Arizona State University graduate with a deg
 
 
 
-- 🌱 I’m currently learning predictive analytics and big data, while also improving my skills in SQL queries and Python libraries (matplotlib, seaborn, pandas)
+- 🌱 I’m currently interested in predictive analytics and big data, while also improving my skills in SQL queries and Python libraries (matplotlib, seaborn, pandas)
 - 🔍 Looking for roles as an entry-level data analyst
 - 📫 How to reach me: Connect with me on linkedin! www.linkedin.com/in/justinpklatt
 - 💡 Fun fact: I love to play pool and ride motorcycles!
