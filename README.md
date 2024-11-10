@@ -1,6 +1,6 @@
 👋 Hello
 
-My name is Justin Klatt and I am an Arizona State University graduate with a degree in Business Data Analytics 🌐. On this page you will find projects of mine that I have done out of personal interest or through my studies 📖. 
+My name is Justin Klatt and I am an Arizona State University graduate with a degree in Business Data Analytics 🌐. On this page you will find projects that I have done out of personal interest or through my studies 📖. 
 
 
 
